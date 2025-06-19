@@ -15,7 +15,7 @@
 - **Adobe Ilusstrator**
 - **CorrelDraw**
 
-## 📂 Struktur Proyek (Penting)
+## 📂 Struktur Proyek
 
 - `Assets/`: Berisi semua file game (script, prefabs, sprite, audio, dll.)
 - `Scenes/`: Berisi level permainan
@@ -24,8 +24,8 @@
 - `Sound/`: Sound effect dan musik
 
 ## 👥 Tim Pengembang
-- Ananda Maria – Game Designer & Programmer
-- Nurul Wahyuni - Asset UI, Environtment & Storyboard
-- Fitria Andriana Sari - Asset Karakter dan Laporan
+- Ananda Maria –  Programmer
+- Nurul Wahyuni - Game Developer
+- Fitria Andriana Sari - Desainer Grafis
 
 
