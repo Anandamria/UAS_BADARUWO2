@@ -20,7 +20,7 @@
 - `Assets/`: Berisi semua file game (script, prefabs, sprite, audio, dll.)
 - `Scenes/`: Berisi level permainan
 - `Scripts/`: Script C# yang mengatur logika permainan
-- `Animasi/`: Animasi Karakter
+- `Animation/`: Animasi Karakter
 - `Audio/`: Sound effect dan musik
 
 ## 👥 Tim Pengembang
