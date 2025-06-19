@@ -1,6 +1,6 @@
 # 🦇 BADARUWO
 
-**BADARUWO** adalah game platformer aksi horor 2D buatan mahasiswa Teknik Multimedia Digital. Game ini mengusung tema makhluk mitologi dan nuansa gelap khas Indonesia, di mana pemain akan menjelajahi dunia penuh misteri dan rintangan untuk menghadapi makhluk legendaris: **Badaruwo**.
+**BADARUWO** adalah game platformer aksi horor 2D buatan mahasiswa Teknik Multimedia Digital. Game ini mengusung tema makhluk mitologi dan nuansa gelap khas Indonesia, di mana pemain akan menjelajahi dunia penuh misteri dan rintangan untuk menghadapi makhluk legendaris.
 
 ## 🎮 Fitur Utama
 
