@@ -21,7 +21,7 @@
 - `Scenes/`: Berisi level permainan
 - `Scripts/`: Script C# yang mengatur logika permainan
 - `Animation/`: Animasi Karakter
-- `Audio/`: Sound effect dan musik
+- `Sound/`: Sound effect dan musik
 
 ## 👥 Tim Pengembang
 - Ananda Maria – Game Designer & Programmer
